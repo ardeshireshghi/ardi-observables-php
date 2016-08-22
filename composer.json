@@ -1,0 +1,16 @@
+{
+  "name": "eardi/observables",
+  "description": "Create objects with observer pattern",
+  "authors": [
+    {
+      "name": "Ardeshir Eshghi",
+      "email": "ardi.eshghi@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Observables\\": "src/Observables/"
+    }
+  }
+}
